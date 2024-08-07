@@ -1,0 +1,9 @@
+{
+    "api_urls": {
+        "TLS": "http://example.com/tls?target=<<$target>>&port=<<$port>>&time=<<$time>>",
+        "BYPASS": "http://example.com/bypass?target=<<$target>>&port=<<$port>>&time=<<$time>>",
+        "TCP": "http://example.com/tcp?target=<<$target>>&port=<<$port>>&time=<<$time>>",
+        "UDP": "http://example.com/udp?target=<<$target>>&port=<<$port>>&time=<<$time>>",
+        "OVHTCP": "http://example.com/ovhtcp?target=<<$target>>&port=<<$port>>&time=<<$time>>"
+    }
+}
